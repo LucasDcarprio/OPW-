@@ -1,0 +1,5 @@
+https://opw.today/
+
+需要再OP链持有world coin NFT
+输入私钥自动claim空投，一次一个
+需要OP链有余额，大约消耗0.09-0.12U
